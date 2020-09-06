@@ -5,7 +5,7 @@
 "ito po sample sa
 From pastebin
 app updater sa pastebin
-at generated sa H1GEN"
+at generated sa H1GEN ok na ah"
 ],
 "url":"https://www.google.com"
 }
