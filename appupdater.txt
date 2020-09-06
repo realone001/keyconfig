@@ -1,0 +1,11 @@
+{
+"latestVersion":"1.0.1",
+"latestVersionCode":"2",
+"releaseNotes":[
+"ito po sample sa
+From pastebin
+app updater sa pastebin
+at generated sa H1GEN"
+],
+"url":"https://www.google.com"
+}
